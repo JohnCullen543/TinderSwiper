@@ -32,7 +32,7 @@ def Start():
 
 def SwipeRight(start):
     for x in range(101):
-        py.press('right', interval = .2)
+        py.press('right', interval = .3)
         
         
 Start()
