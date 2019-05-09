@@ -9,6 +9,8 @@ swiping to get laid
 If you want it to work perfectly you will need to crop the 
 Tinder Heart and save it as a png in the
 same folder as your saving this script
+Also you will need basically some 3.(?) version of python and to
+pip install pyautogui.
 
 """
 
